@@ -1,5 +1,5 @@
 import  { useState } from 'react';
-import SplineEmbed from './components/spline';
+/* import SplineEmbed from './components/spline'; */
 import styles from './components/app2.module.css';
 
 const AIToolsDashboard = () => {
